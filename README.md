@@ -59,30 +59,29 @@ Otherwise it will proceed to the next step.
 <h3 align = "center">👩‍💻 Languages</h3>
 
 <p align="center">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c.svg">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/c++.svg">
-  <a href="https://en.wikipedia.org/wiki/Shell_script">
-    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg">
+
+  [![C](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c.svg)](https://www.cprogramming.com/)
+  [![C++](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/c++.svg)](https://www.cprogramming.com/)
+  [![SHELLSCRIPT](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg)](https://en.wikipedia.org/wiki/Shell_script)
+
 </p>
 
 <h2></h2>
 
 <h3 align="center">🚀 Development Tools & Environments</h3>
 <p align="center">
-  <a href="https://www.keil.com/">
-    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/keilUVision.svg">
-  </a>
+
+  [![KEIL UVISION5](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/keilUVision.svg)](https://www.keil.com/)
+
 </p>
 
 <h2></h2>
 
 <h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
 <p align="center">
-  <a href="https://www.st.com/content/st_com/en.html">
-    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/middle/stm.svg" >
-  </a> 
+
+  [![STM](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/middle/stm.svg)](https://www.st.com/content/st_com/en.html)
+
 </p>
 
 <br>
