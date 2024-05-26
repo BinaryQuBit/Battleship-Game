@@ -78,11 +78,9 @@ Otherwise it will proceed to the next step.
 <h2></h2>
 
 <h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
-<p align="center">
-
+<div align = "center>
   [![STM](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/middle/stm.svg)](https://www.st.com/content/st_com/en.html)
-
-</p>
+</div>
 
 <br>
 
