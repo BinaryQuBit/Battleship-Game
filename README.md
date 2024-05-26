@@ -58,22 +58,22 @@ Otherwise it will proceed to the next step.
 
 <h3 align = "center">👩‍💻 Languages</h3>
 
-<p align="center">
+<div align="center">
 
   [![C](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c.svg)](https://www.cprogramming.com/)
   [![C++](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/c++.svg)](https://www.cprogramming.com/)
   [![SHELLSCRIPT](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg)](https://en.wikipedia.org/wiki/Shell_script)
 
-</p>
+</div>
 
 <h2></h2>
 
 <h3 align="center">🚀 Development Tools & Environments</h3>
-<p align="center">
+<div align="center">
 
   [![KEIL UVISION5](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/keilUVision.svg)](https://www.keil.com/)
 
-</p>
+</div>
 
 <h2></h2>
 
