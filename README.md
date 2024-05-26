@@ -1,29 +1,29 @@
 <div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup//welcome.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/welcomeScreens/battleshipGame.svg" style="width: 100%"></a>
 </div>
 
 <br>
 <br> 
 
 <div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup/demo.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/demo.svg" style="width: 100%"></a>
 </div>
 
 <div align="center">
   <a href="#"><img src="#" width="49%"></a>
-  <a href="#"><img src="./readmeSetup/videoGIFS/battleshipGameC.gif" width="49%"></a>
+  <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/battleshipGameC.gif?raw=true" width="49%"></a>
 </div>
 
 <div align="center">
   <a href="#"><img src="#" width="49%"></a>
-  <a href="#"><img src="./readmeSetup/projectTitles/battleshipGameC.svg" width="49%"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/projectTitles/battleshipGameC.svg" width="49%"></a>
 </div>
 
 <br>
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup/howToPlay.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/howToPlay.svg" style="width: 100%"></a>
 </div>
 
 ### About the hardware:
@@ -49,35 +49,45 @@ Otherwise it will proceed to the next step.
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/techStack.svg" style="width: 100%"></a>
 </div>
 
 <h3 align = "center">👩‍💻 Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c.svg">
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/c++.svg">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Shell_script">
+    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg">
+  </a>
 </p>
 
 <h2></h2>
 
 <h3 align="center">🚀 Development Tools & Environments</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Keil%20UVISION-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Keil">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
+  <a href="https://www.keil.com/">
+    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/keilUVision.svg">
+  </a>
 </p>
 
 <h2></h2>
 
 <h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/STM-%23069F9C.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="STM">
+  <a href="https://www.st.com/content/st_com/en.html">
+    <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/middle/stm.svg" >
+  </a> 
 </p>
 
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup/resources.svg" style="width: 100%"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/resources.svg" style="width: 100%"></a>
 </div>
 
-- <a href = "#">Project Report</a>
+- <a href = "https://github.com/BinaryQuBit/Battleship-Game/blob/main/documents/Project352.pdf">Project Report</a>
