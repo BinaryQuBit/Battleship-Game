@@ -9,6 +9,8 @@
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/demo.svg" style="width: 100%"></a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="#"><img src="#" width="49%"></a>
   <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/battleshipGameC.gif?raw=true" width="49%"></a>
@@ -36,6 +38,8 @@
 7) 7th Led is for Input row where you have to input a row. It must be below 9; since the grid is 10 by 10.
 8) 8th Led is for Column row where you have to input a column, It must be below 9; since the grid is 10 by 10.
 
+<br>
+
 ### When the game starts
 - The user needs to input the the row number they want to attack and press the button. If the number is less than or equal to 9, the user will get to input the column.
 Otherwise, the input light will blink 3 times and will let the user to input it again.
@@ -57,13 +61,10 @@ Otherwise it will proceed to the next step.
 <p align="center">
   <a href="https://www.cprogramming.com/">
     <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c.svg">
-  </a>
   <a href="https://www.cprogramming.com/">
     <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/c++.svg">
-  </a>
   <a href="https://en.wikipedia.org/wiki/Shell_script">
     <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg">
-  </a>
 </p>
 
 <h2></h2>
@@ -89,5 +90,7 @@ Otherwise it will proceed to the next step.
 <div style="width: 100%;">
   <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7e25e7a877f6b5ad1166eaaa0aec52e9091b9627/headers/resources.svg" style="width: 100%"></a>
 </div>
+
+<br>
 
 - <a href = "https://github.com/BinaryQuBit/Battleship-Game/blob/main/documents/Project352.pdf">Project Report</a>
