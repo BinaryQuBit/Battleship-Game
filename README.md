@@ -97,8 +97,6 @@
 - Power Supply
 - Standard Game Rules
 
-<br>
-
 ### Constraints:
 - Hardware Limitations
 - Interface Limitations
