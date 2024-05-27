@@ -207,10 +207,7 @@ Otherwise it will proceed to the next step.
 <br>
 
 <div align="center">
-  <a href="https://github.com/BinaryQuBit">
-    <img src="https://contrib.rocks/image?repo=binaryqubit/battleship-game" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/BinaryQuBit">Amandip Padda</a>
+
+  [<img src="https://github.com/binaryqubit.png" width="80px;" /><br /><sub><a href="https://github.com/binaryqubit">Amandip Padda</a></sub>](https://github.com/BinaryQuBit)
+  
 </div>
