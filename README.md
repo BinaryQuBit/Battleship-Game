@@ -144,7 +144,7 @@
 <br>
 
 <div style="width: 100%;">
-    <a href="#"><img src="" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/626da83e39e3bc3f0359d0fb63a73a934c32f932/headers/howToPlay.svg" style="width: 100%"></a>
 </div>
 
 ### About the hardware:
@@ -156,8 +156,6 @@
 6) 6th Led is for Miss where once you target the ship and if ship doesnt exisit, it should active it.
 7) 7th Led is for Input row where you have to input a row. It must be below 9; since the grid is 10 by 10.
 8) 8th Led is for Column row where you have to input a column, It must be below 9; since the grid is 10 by 10.
-
-<br>
 
 ### When the game starts
 - The user needs to input the the row number they want to attack and press the button. If the number is less than or equal to 9, the user will get to input the column.
