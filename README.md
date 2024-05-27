@@ -45,15 +45,6 @@
 <p>
   The Battleship game, a classic naval strategy game, has been a popular form of entertainment for decades. Traditionally played on a grid where players take turns guessing the locations of their opponent's ships, the game combines strategic thinking and luck. With advancements in technology, this game has been adapted into various digital formats, providing an engaging way to learn and apply programming skills.
 </p>
-<p>
-  The STM32F103RB microcontroller, part of the STM32 family by STMicroelectronics, is widely used in embedded systems due to its powerful ARM Cortex-M3 core, rich set of peripherals, and ease of integration. Developing a Battleship game on this platform provides an excellent opportunity to explore embedded programming, hardware interfacing, and game logic implementation.
-</p>
-<p>
-  This project involved creating a Battleship game using both standard C programming and C embedded programming for the STM32F103RB. The C version served as a preliminary stage to develop and test the game logic, ensuring a solid foundation for the embedded implementation. The primary challenge and learning opportunity lay in the embedded C version, where the game had to interact with the microcontroller's hardware components, such as the LCD display, buttons, and possibly other peripherals, to create a fully functional and interactive game.
-</p>
-<p>
-  The aim was to leverage the STM32F103RB's capabilities to provide a seamless gaming experience, demonstrating the application of embedded systems knowledge in a real-world scenario. This project not only reinforces programming skills but also highlights the importance of hardware-software co-design in embedded system development.
-</p>
 
 <br>
 
